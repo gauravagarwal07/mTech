@@ -1,0 +1,32 @@
+Displacement
+Cylinders
+Max Power
+Maximum Torque
+Bore
+Stroke
+Valves Per Cylinder
+Fuel Delivery System
+346 cc
+1
+19.80 bhp @ 5,250 rpm
+28 Nm @ 4,000 rpm
+70 mm
+90 mm
+2
+Constant Vacuum Carburettor
+Fuel Type
+Ignition
+Spark Plugs
+Cooling System
+Gearbox Type
+No. of Gears
+Transmission Type
+Clutch
+Petrol
+Transistorized Coil Ignition (TCI)
+2 Per Cylinder
+Air Cooled
+Manual
+5
+Chain Drive
+Wet, multi-plate

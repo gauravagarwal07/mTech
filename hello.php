@@ -5,7 +5,7 @@
 
 	<body>
 		<h1>
-			Hi guys, Manoj this side..
+			Hi guys, Manoj this side....
 		</h1>
 		<p>
 			I hope you are doing well.
